@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilham Mufit</h1>
 <h3 align="center">Interested About Web Development</h3>
+(img align="right" alt="gif" width="400" src="https://data.whicdn.com/images/271624292/original.gif")
 
 - 🌱 I’m currently learning **Javascript**
 
